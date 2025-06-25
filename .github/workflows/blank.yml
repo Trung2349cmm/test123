@@ -3,7 +3,7 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "server2019"
+      VERSION: "tiny11"
       USERNAME: "trungakira"
       PASSWORD: "Temp123MC"
       RAM_SIZE: "8G"
